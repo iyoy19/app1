@@ -1,0 +1,462 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "73acd9a5972130b75066c82595a1fae3",
+    "loginToken": "d106ee46621ccf31c24ebb9bb774941a",
+    "logs": [
+      {
+        "time": "2024-09-23T16:28:03.824Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"23-ea\" 202. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-09-23T16:28:34.451Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"23-ea\" 202. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-09-23T16:36:43.911Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"17.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-09-23T16:37:20.974Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"17.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-09-23T16:48:26.346Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"17.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-09-23T16:54:57.392Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T16:55:36.959Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T16:57:30.367Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Connected"
+      },
+      {
+        "time": "2024-09-23T16:58:20.093Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:58:20.117Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T16:58:23.996Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:58:24.435Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Contacts Updated - 441 New Contacts Added"
+      },
+      {
+        "time": "2024-09-23T16:58:35.157Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:58:35.294Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2024-09-23T16:59:30.163Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:59:30.180Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Permissions Updated"
+      },
+      {
+        "time": "2024-09-23T16:59:37.147Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:59:37.218Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T16:59:46.922Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T16:59:47.003Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Call Log Updated - 42 New Calls"
+      },
+      {
+        "time": "2024-09-23T17:04:14.808Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Disconnected"
+      },
+      {
+        "time": "2024-09-23T17:15:01.216Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T17:20:06.171Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T17:20:29.362Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T17:23:44.641Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T17:30:55.585Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Connected"
+      },
+      {
+        "time": "2024-09-23T17:30:55.585Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Running Queued Commands"
+      },
+      {
+        "time": "2024-09-23T17:30:55.585Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:30:55.586Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:30:55.587Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:30:55.722Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Permissions Updated"
+      },
+      {
+        "time": "2024-09-23T17:31:58.680Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:31:58.771Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T17:32:03.007Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:32:03.057Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T17:32:05.335Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:32:05.369Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T17:32:17.407Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:32:26.126Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:32:52.627Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:32:58.646Z",
+        "type": "INFO",
+        "message": "Recieving sound4684295951175947308.mp3 from 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:34:38.220Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-23T17:35:38.712Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:35:39.204Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2024-09-23T17:35:42.088Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:35:43.708Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Apps Updated"
+      },
+      {
+        "time": "2024-09-23T17:35:44.774Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:35:44.931Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Apps Updated"
+      },
+      {
+        "time": "2024-09-23T17:35:45.055Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:35:45.333Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Apps Updated"
+      },
+      {
+        "time": "2024-09-23T17:36:06.925Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:36:06.964Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Permissions Updated"
+      },
+      {
+        "time": "2024-09-23T17:36:12.236Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:41:44.098Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Disconnected"
+      },
+      {
+        "time": "2024-09-23T17:42:18.448Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Connected"
+      },
+      {
+        "time": "2024-09-23T17:42:18.449Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Running Queued Commands"
+      },
+      {
+        "time": "2024-09-23T17:42:18.449Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:42:19.997Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Apps Updated"
+      },
+      {
+        "time": "2024-09-23T17:43:56.431Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Disconnected"
+      },
+      {
+        "time": "2024-09-23T17:43:57.862Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Connected"
+      },
+      {
+        "time": "2024-09-23T17:43:57.862Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Running Queued Commands"
+      },
+      {
+        "time": "2024-09-23T17:43:57.862Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:43:58.295Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2024-09-23T17:45:27.480Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:45:27.492Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T17:45:40.017Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:45:40.045Z",
+        "type": "SUCCESS",
+        "message": "0804458dd4be9d2d GPS Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:03.079Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:03.126Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:06.967Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:07.033Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:15.895Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:15.966Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:19.040Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:19.074Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:22.472Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:22.513Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:25.319Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:25.367Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:27.024Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:27.060Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:29.927Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:29.948Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:46:30.943Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 0804458dd4be9d2d"
+      },
+      {
+        "time": "2024-09-23T17:46:30.963Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-09-23T17:47:39.805Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Disconnected"
+      },
+      {
+        "time": "2024-09-23T17:58:09.845Z",
+        "type": "INFO",
+        "message": "0804458dd4be9d2d Connected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "0804458dd4be9d2d",
+      "firstSeen": "2024-09-23T16:57:30.361Z",
+      "lastSeen": "2024-09-23T17:58:09.844Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "192.168.140.52",
+        "clientGeo": {},
+        "device": {
+          "model": "Infinix X6731B",
+          "manufacture": "INFINIX",
+          "version": "13"
+        }
+      }
+    }
+  ]
+}
